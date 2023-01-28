@@ -28,7 +28,7 @@
 <a href="https://appgallery.huawei.com/app/C106886071?sharePrepath=ag&locale=ru_RU&source=appshare&subsource=C106886071&shareTo=com.android.bluetooth&shareFrom=appmarket&shareIds=e5418ccc7527439db6bb09c4ea5edd7b_com.android.bluetooth&callType=SHARE/">
     <img src="https://github.com/SP1K33/SP1K33/blob/main/images/HuaweiLogo.png?raw=true" width="80">
 </a>
-<a href="https://ruplay.market/apps/igry/com.SP1K3.MiceLines/">
+<a href="https://ruplay.market/apps/category/Igry/com.SP1K3.MiceLines/">
     <img src="https://github.com/SP1K33/SP1K33/blob/main/images/RumarketLogo.png?raw=true" width="80">
 </a>
 <a href="https://disk.yandex.ru/d/7Zxaf1oDPYrZfw">
